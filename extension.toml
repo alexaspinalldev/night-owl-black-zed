@@ -1,0 +1,7 @@
+id = "night-owl-black-theme"
+name = "Night Owl Black Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Alex Aspinall <185083897+alexaspinalldev@users.noreply.github.com>"]
+description = "A dark theme with a pure black editor background, based on Night Owl Black for VS Code."
+repository = "https://github.com/alexaspinalldev/night-owl-black-zed"
