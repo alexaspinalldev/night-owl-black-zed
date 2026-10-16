@@ -1,5 +1,7 @@
 # Night Owl Black for Zed
 
+<img width="1822" height="1185" alt="Screenshot 2026-10-16 at 17 00 54" src="https://github.com/user-attachments/assets/62230ae2-e454-4274-a78e-d77f8b5dc3e7" />
+
 A port of [Night Owl Black](https://github.com/thedavej/night-owl-black) (VS Code) for [Zed](https://zed.dev).
 
 Pure black editor background (`#000000`), Night Owl syntax colours, and two variants:
